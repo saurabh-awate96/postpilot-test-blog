@@ -11,6 +11,7 @@ This post was written in PostPilot and published to GitHub Pages without touchin
 
 - Connecting a GitHub Pages account
 - Publishing a formatted post
+- Update: this paragraph was added after publishing, to test pushing edits.
 - Updating it after it is live
 
 Formatting check: **bold text**, *italic text* and `inline code` should survive the trip.
